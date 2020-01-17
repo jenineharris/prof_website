@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Sarah Van Alsten, MPH
+name: Jenine Harris, PhD
 
 # Username (this should match the folder name)
 authors:
-- sarah
+- jenine
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Researcher
+role: Faculty
 
 # Organizations/Affiliations
 organizations:
