@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "purple_theme"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -75,7 +75,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/sarahVanAlsten/personalWeb", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/jenineharris/prof_website", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/sarahVanAlsten/personalWeb", content
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sarahvanalsten@gmail.com"
+email = "harrisj@wust.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -96,7 +96,7 @@ directions = "Part of the Brown School, Washington University in St. Louis"
 
 # Contact links
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Follow Me!", link = "https://twitter.com/alsten_van"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow Me!", link = "https://twitter.com/jenineharris"},
   ]
 
 ############################
@@ -107,7 +107,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "alsten_van"
+twitter = "jenineharris"
 
 ############################
 ## Regional Settings
